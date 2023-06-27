@@ -1,1 +1,1 @@
-This Discord web page is created using Tailwind CSS.
+This Discord Home page is created using Tailwind CSS.
